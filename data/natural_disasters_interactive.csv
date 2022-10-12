@@ -1,0 +1,193 @@
+"","Entity","Disasters","Impact","Count"
+"1","High income","Total","Affected",151.222279789083
+"2","High income","Total","Homeless",151.222279789083
+"3","High income","Total","Death",0.661448
+"4","High income","Total","Injured",0.615845
+"5","High income","Drought","Affected",13.55127689825
+"6","High income","Drought","Homeless",13.55127689825
+"7","High income","Drought","Death",6e-04
+"8","High income","Drought","Injured",0
+"9","High income","Earthquakes","Affected",11.05206072
+"10","High income","Earthquakes","Homeless",11.05206072
+"11","High income","Earthquakes","Death",0.37951
+"12","High income","Earthquakes","Injured",0.341975
+"13","High income","Floods","Affected",28.4807788290833
+"14","High income","Floods","Homeless",28.4807788290833
+"15","High income","Floods","Death",0.031999
+"16","High income","Floods","Injured",0.017226
+"17","High income","Storms","Affected",92.84424919
+"18","High income","Storms","Homeless",92.84424919
+"19","High income","Storms","Death",0.107184
+"20","High income","Storms","Injured",0.058893
+"21","High income","ExtremeTemperature","Affected",3.75314038616667
+"22","High income","ExtremeTemperature","Homeless",3.75314038616667
+"23","High income","ExtremeTemperature","Death",0.096464
+"24","High income","ExtremeTemperature","Injured",0.191355
+"25","High income","Fog","Affected",0
+"26","High income","Fog","Homeless",0
+"27","High income","Fog","Death",0.004
+"28","High income","Fog","Injured",0
+"29","High income","Wildfires","Affected",1.19787097591667
+"30","High income","Wildfires","Homeless",1.19787097591667
+"31","High income","Wildfires","Death",0.002865
+"32","High income","Wildfires","Injured",0.004978
+"33","High income","GlacialLakeOutbursts","Affected",NA
+"34","High income","GlacialLakeOutbursts","Homeless",NA
+"35","High income","GlacialLakeOutbursts","Death",0
+"36","High income","GlacialLakeOutbursts","Injured",0
+"37","High income","Landslides","Affected",0.105274826
+"38","High income","Landslides","Homeless",0.105274826
+"39","High income","Landslides","Death",0.006941
+"40","High income","Landslides","Injured",0.001204
+"41","High income","VolcanicActivities","Affected",0.237491959083333
+"42","High income","VolcanicActivities","Homeless",0.237491959083333
+"43","High income","VolcanicActivities","Death",0.031716
+"44","High income","VolcanicActivities","Injured",0.000167
+"45","High income","MassMovements","Affected",0.000135997583333333
+"46","High income","MassMovements","Homeless",0.000135997583333333
+"47","High income","MassMovements","Death",0.000169
+"48","High income","MassMovements","Injured",4.7e-05
+"49","Low income","Total","Affected",881.820851925583
+"50","Low income","Total","Homeless",881.820851925583
+"51","Low income","Total","Death",1.073431
+"52","Low income","Total","Injured",0.440794
+"53","Low income","Drought","Affected",692.479893041417
+"54","Low income","Drought","Homeless",692.479893041417
+"55","Low income","Drought","Death",0.781414
+"56","Low income","Drought","Injured",0
+"57","Low income","Earthquakes","Affected",7.30943286866667
+"58","Low income","Earthquakes","Homeless",7.30943286866667
+"59","Low income","Earthquakes","Death",0.235341
+"60","Low income","Earthquakes","Injured",0.373657
+"61","Low income","Floods","Affected",114.512770459917
+"62","Low income","Floods","Homeless",114.512770459917
+"63","Low income","Floods","Death",0.027377
+"64","Low income","Floods","Injured",0.037661
+"65","Low income","Storms","Affected",59.7408754083333
+"66","Low income","Storms","Homeless",59.7408754083333
+"67","Low income","Storms","Death",0.021504
+"68","Low income","Storms","Injured",0.027984
+"69","Low income","ExtremeTemperature","Affected",6.76553755641667
+"70","Low income","ExtremeTemperature","Homeless",6.76553755641667
+"71","Low income","ExtremeTemperature","Death",0.001951
+"72","Low income","ExtremeTemperature","Injured",0.00025
+"73","Low income","Fog","Affected",0
+"74","Low income","Fog","Homeless",0
+"75","Low income","Fog","Death",0
+"76","Low income","Fog","Injured",0
+"77","Low income","Wildfires","Affected",0.0815761561666667
+"78","Low income","Wildfires","Homeless",0.0815761561666667
+"79","Low income","Wildfires","Death",0.000161
+"80","Low income","Wildfires","Injured",4e-05
+"81","Low income","GlacialLakeOutbursts","Affected",NA
+"82","Low income","GlacialLakeOutbursts","Homeless",NA
+"83","Low income","GlacialLakeOutbursts","Death",0
+"84","Low income","GlacialLakeOutbursts","Injured",0
+"85","Low income","Landslides","Affected",0.910475955833333
+"86","Low income","Landslides","Homeless",0.910475955833333
+"87","Low income","Landslides","Death",0.00519
+"88","Low income","Landslides","Injured",0.000787
+"89","Low income","VolcanicActivities","Affected",0.0196146655833333
+"90","Low income","VolcanicActivities","Homeless",0.0196146655833333
+"91","Low income","VolcanicActivities","Death",0.000422
+"92","Low income","VolcanicActivities","Injured",0.000415
+"93","Low income","MassMovements","Affected",0.0006757405
+"94","Low income","MassMovements","Homeless",0.0006757405
+"95","Low income","MassMovements","Death",7.1e-05
+"96","Low income","MassMovements","Injured",0
+"97","Lower middle income","Total","Affected",1656.23063346467
+"98","Lower middle income","Total","Homeless",1656.23063346467
+"99","Lower middle income","Total","Death",7.851888
+"100","Lower middle income","Total","Injured",1.866062
+"101","Lower middle income","Drought","Affected",784.970015425
+"102","Lower middle income","Drought","Homeless",784.970015425
+"103","Lower middle income","Drought","Death",6.236406
+"104","Lower middle income","Drought","Injured",0
+"105","Lower middle income","Earthquakes","Affected",19.5606484999167
+"106","Lower middle income","Earthquakes","Homeless",19.5606484999167
+"107","Lower middle income","Earthquakes","Death",0.315827
+"108","Lower middle income","Earthquakes","Injured",0.580051
+"109","Lower middle income","Floods","Affected",650.685260247417
+"110","Lower middle income","Floods","Homeless",650.685260247417
+"111","Lower middle income","Floods","Death",0.185393
+"112","Lower middle income","Floods","Injured",0.176039
+"113","Lower middle income","Storms","Affected",197.4396121545
+"114","Lower middle income","Storms","Homeless",197.4396121545
+"115","Lower middle income","Storms","Death",1.063741
+"116","Lower middle income","Storms","Injured",1.084892
+"117","Lower middle income","ExtremeTemperature","Affected",1.712775356
+"118","Lower middle income","ExtremeTemperature","Homeless",1.712775356
+"119","Lower middle income","ExtremeTemperature","Death",0.025208
+"120","Lower middle income","ExtremeTemperature","Injured",0.020818
+"121","Lower middle income","Fog","Affected",0
+"122","Lower middle income","Fog","Homeless",0
+"123","Lower middle income","Fog","Death",0
+"124","Lower middle income","Fog","Injured",0
+"125","Lower middle income","Wildfires","Affected",0.0636468569166667
+"126","Lower middle income","Wildfires","Homeless",0.0636468569166667
+"127","Lower middle income","Wildfires","Death",0.000206
+"128","Lower middle income","Wildfires","Injured",0.000261
+"129","Lower middle income","GlacialLakeOutbursts","Affected",NA
+"130","Lower middle income","GlacialLakeOutbursts","Homeless",NA
+"131","Lower middle income","GlacialLakeOutbursts","Death",0
+"132","Lower middle income","GlacialLakeOutbursts","Injured",0
+"133","Lower middle income","Landslides","Affected",0.575333739166667
+"134","Lower middle income","Landslides","Homeless",0.575333739166667
+"135","Lower middle income","Landslides","Death",0.015879
+"136","Lower middle income","Landslides","Injured",0.002192
+"137","Lower middle income","VolcanicActivities","Affected",1.22271485966667
+"138","Lower middle income","VolcanicActivities","Homeless",1.22271485966667
+"139","Lower middle income","VolcanicActivities","Death",0.008316
+"140","Lower middle income","VolcanicActivities","Injured",0.001737
+"141","Lower middle income","MassMovements","Affected",0.000626327166666667
+"142","Lower middle income","MassMovements","Homeless",0.000626327166666667
+"143","Lower middle income","MassMovements","Death",0.000912
+"144","Lower middle income","MassMovements","Injured",7.2e-05
+"145","Upper middle income","Total","Affected",1289.00493072275
+"146","Upper middle income","Total","Homeless",1289.00493072275
+"147","Upper middle income","Total","Death",11.858022
+"148","Upper middle income","Total","Injured",4.704859
+"149","Upper middle income","Drought","Affected",269.130498651667
+"150","Upper middle income","Drought","Homeless",269.130498651667
+"151","Upper middle income","Drought","Death",3.512959
+"152","Upper middle income","Drought","Injured",3.2e-05
+"153","Upper middle income","Earthquakes","Affected",37.2953061523333
+"154","Upper middle income","Earthquakes","Homeless",37.2953061523333
+"155","Upper middle income","Earthquakes","Death",1.260569
+"156","Upper middle income","Earthquakes","Injured",1.486875
+"157","Upper middle income","Floods","Affected",768.281112738333
+"158","Upper middle income","Floods","Homeless",768.281112738333
+"159","Upper middle income","Floods","Death",6.739616
+"160","Upper middle income","Floods","Injured",1.122801
+"161","Upper middle income","Storms","Affected",176.664899152167
+"162","Upper middle income","Storms","Homeless",176.664899152167
+"163","Upper middle income","Storms","Death",0.205171
+"164","Upper middle income","Storms","Injured",0.218708
+"165","Upper middle income","ExtremeTemperature","Affected",27.52299882775
+"166","Upper middle income","ExtremeTemperature","Homeless",27.52299882775
+"167","Upper middle income","ExtremeTemperature","Death",0.062783
+"168","Upper middle income","ExtremeTemperature","Injured",1.838983
+"169","Upper middle income","Fog","Affected",0
+"170","Upper middle income","Fog","Homeless",0
+"171","Upper middle income","Fog","Death",0
+"172","Upper middle income","Fog","Injured",0
+"173","Upper middle income","Wildfires","Affected",4.60212483075
+"174","Upper middle income","Wildfires","Homeless",4.60212483075
+"175","Upper middle income","Wildfires","Death",0.001145
+"176","Upper middle income","Wildfires","Injured",0.005859
+"177","Upper middle income","GlacialLakeOutbursts","Affected",NA
+"178","Upper middle income","GlacialLakeOutbursts","Homeless",NA
+"179","Upper middle income","GlacialLakeOutbursts","Death",0
+"180","Upper middle income","GlacialLakeOutbursts","Injured",0
+"181","Upper middle income","Landslides","Affected",3.75114544125
+"182","Upper middle income","Landslides","Homeless",3.75114544125
+"183","Upper middle income","Landslides","Death",0.026042
+"184","Upper middle income","Landslides","Injured",0.007733
+"185","Upper middle income","VolcanicActivities","Affected",1.752906086
+"186","Upper middle income","VolcanicActivities","Homeless",1.752906086
+"187","Upper middle income","VolcanicActivities","Death",0.046347
+"188","Upper middle income","VolcanicActivities","Injured",0.023578
+"189","Upper middle income","MassMovements","Affected",0.0039388095
+"190","Upper middle income","MassMovements","Homeless",0.0039388095
+"191","Upper middle income","MassMovements","Death",0.00339
+"192","Upper middle income","MassMovements","Injured",0.00029
